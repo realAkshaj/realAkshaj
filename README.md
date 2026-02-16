@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Akshaj%20Kurra&fontSize=52&fontColor=ffffff&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Akshaj%20Kurra%20Satishkumar&fontSize=52&fontColor=ffffff&fontAlignY=40)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=LLM+Infrastructure+%26+RAG+Pipelines;Distributed+Systems+%40+Scale;MS+CS+%40+UIC+%7C+GPA+3.9%2F4.0;Graduating+May+2026;Open+to+New+Grad+Roles)](https://akshajks.com)
 
