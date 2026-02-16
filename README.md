@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/akshajks">
+  <a href="https://linkedin.com/in/akshaj-kurra">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://akshajks.com">
