@@ -1,14 +1,10 @@
-<div align="center">
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Akshaj%20Kurra&fontSize=52&fontColor=ffffff&fontAlignY=40)
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Akshaj%20Kurra&fontSize=52&fontColor=ffffff&fontAlignY=50&animation=fadeIn)
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=LLM+Infrastructure+%26+RAG+Pipelines;Distributed+Systems+%40+Scale;MS+CS+%40+UIC+%7C+GPA+3.9%2F4.0;Graduating+May+2026;Open+to+New+Grad+Roles)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=LLM+Infrastructure+%26+RAG+Pipelines;Distributed+Systems+%40+Scale;MS+CS+%40+UIC+%7C+GPA+3.9%2F4.0;Graduating+May+2026;Open+to+New+Grad+Roles)](https://akshajks.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshajks)
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://akshajks.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akurr@uic.edu)
-
-</div>
 
 ---
 
@@ -27,7 +23,7 @@ Before grad school, I built backend infrastructure at a startup processing **50K
 | [**Conversational AI RAG Chatbot**](https://github.com/realAkshaj/Conversational-AI-RAG-Chatbot) | RAG pipeline over 500+ research papers. 85% answer accuracy, sub-2s response times | Python, LangChain, FAISS, OpenAI |
 | [**LLM Microservice**](https://github.com/realAkshaj/LLM-Microservice) | Scalable microservice architecture for LLM inference | Scala, Docker |
 | [**AI CMS Platform**](https://github.com/realAkshaj/ai-cms-platform) | AI-powered content management system | TypeScript, Node.js |
-| [**ML Model Serving**](https://github.com/realAkshaj/) | PyTorch on AWS Lambda, 5K predictions/day at p95 < 300ms. ONNX cut model size 50% | Python, AWS Lambda, Terraform |
+| [**ML Model Serving**](https://github.com/realAkshaj/) | PyTorch on AWS Lambda, 5K predictions/day at p95 under 300ms. ONNX cut model size 50% | Python, AWS Lambda, Terraform |
 | [**Portfolio**](https://github.com/realAkshaj/portfolio) | OS-style personal site built with Next.js 14 | Next.js, Tailwind, Framer Motion |
 
 ---
@@ -69,16 +65,8 @@ Before grad school, I built backend infrastructure at a startup processing **50K
 
 ## GitHub Stats
 
-<div align="center">
-
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=realAkshaj&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
-<div align="center">
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer)
-
-</div>
