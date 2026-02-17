@@ -27,8 +27,9 @@ Before grad school, I built backend infrastructure at a startup processing **50K
 | [**LLM Conversational Agent**](https://github.com/realAkshaj/LLM-Microservice) ([Video](https://youtu.be/zWOe9C6i96g)) | Hybrid cloud/local chat system integrating AWS Bedrock & Ollama via Akka HTTP microservices | Scala, Akka HTTP, AWS Bedrock, Ollama, Docker |
 | [**SMS-Based LLM Platform**](https://github.com/realAkshaj/) | SMS-to-LLM bridge for rural users without smartphones. 150+ queries/day, 40% cost reduction | Python, Twilio, AWS Lambda, DynamoDB |
 | [**Distributed Backend System**](https://github.com/realAkshaj/) | 5-service microservices architecture handling 1,200+ requests/hour with circuit breaker pattern | Java, Go, Kubernetes, RabbitMQ |
-| [**AI CMS Platform**](https://github.com/realAkshaj/ai-cms-platform) ([Live](https://ai-cms-platform-web.vercel.app/)) | AI-powered content management system | TypeScript, Node.js |
-| [**Portfolio**](https://github.com/realAkshaj/portfolio) ([Live](https://akshajks.com)) | OS-style personal site built with Next.js 14 | Next.js, Tailwind, Framer Motion |
+| [**AI CMS Platform**](https://github.com/realAkshaj/ai-cms-platform) ([Live](https://ai-cms-platform-web.vercel.app/)) | Full-stack AI-powered CMS with Gemini integration, multi-tenant auth, SEO auto-generation, public blog & analytics dashboard | TypeScript, Next.js 16, Express, Prisma, PostgreSQL, Docker |
+| [**Conversational AI RAG Chatbot**](https://github.com/realAkshaj/Conversational-AI-RAG-Chatbot) | RAG-powered conversational chatbot with document retrieval and contextual responses | Python |
+| [**Portfolio**](https://github.com/realAkshaj/portfolio) ([Live](https://akshajks.com)) | OS-style personal site with desktop metaphor UI, draggable windows & animated transitions | Next.js, TypeScript, Tailwind, Framer Motion |
 
 ---
 
@@ -41,6 +42,7 @@ Before grad school, I built backend infrastructure at a startup processing **50K
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
@@ -49,6 +51,7 @@ Before grad school, I built backend infrastructure at a startup processing **50K
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
@@ -88,7 +91,9 @@ Before grad school, I built backend infrastructure at a startup processing **50K
 
 ## GitHub Stats
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=realAkshaj&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=realAkshaj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
