@@ -24,7 +24,7 @@ Before grad school, I built backend infrastructure at a startup processing **50K
 | [**SMS-Based LLM Platform**](https://github.com/realAkshaj/) | SMS-to-LLM bridge for rural users without smartphones. 150+ queries/day, 40% cost reduction | Python, Twilio, AWS Lambda, DynamoDB |
 | [**Distributed Backend System**](https://github.com/realAkshaj/) | 5-service microservices architecture handling 1,200+ requests/hour with circuit breaker pattern | Java, Go, Kubernetes, RabbitMQ |
 | [**AI CMS Platform**](https://github.com/realAkshaj/ai-cms-platform) ([Live](https://ai-cms-platform-web.vercel.app/)) | AI-powered content management system | TypeScript, Node.js |
-| [**Portfolio**](https://akshajks.com) | OS-style personal site built with Next.js 14 | Next.js, Tailwind, Framer Motion |
+| [**Portfolio**](https://github.com/realAkshaj/portfolio) ([Live](https://akshajks.com)) | OS-style personal site built with Next.js 14 | Next.js, Tailwind, Framer Motion |
 
 ---
 
