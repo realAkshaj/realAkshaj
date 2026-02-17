@@ -1,23 +1,26 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Akshaj%20Kurra%20Satishkumar&fontSize=52&fontColor=ffffff&fontAlignY=40)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Akshaj%20Kurra%20Satishkumar&fontSize=52&fontColor=ffffff&fontAlignY=40" />
+</p>
 
 <p align="center">
   <a href="https://akshajks.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=LLM+Infrastructure+%26+RAG+Pipelines;Distributed+Systems+%40+Scale;MS+CS+%40+UIC+%7C+GPA+3.9%2F4.0;Graduating+May+2026;Open+to+New+Grad+Roles" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=LLM+Infrastructure+%26+RAG+Pipelines;Distributed+Systems+%40+Scale;MS+CS+%40+UIC+%7C+GPA+3.9%2F4.0;Graduating+May+2026;Open+to+New+Grad+Roles" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/akshajks">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  </a>&nbsp;
   <a href="https://akshajks.com">
     <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
+  </a>&nbsp;
   <a href="mailto:akurr@uic.edu">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
+---
 
 ## About Me
 
@@ -34,9 +37,8 @@ Before grad school, I built backend infrastructure at a startup processing **50K
 | [**LLM Conversational Agent**](https://github.com/realAkshaj/LLM-Microservice) ([Video](https://youtu.be/zWOe9C6i96g)) | Hybrid cloud/local chat system integrating AWS Bedrock & Ollama via Akka HTTP microservices | Scala, Akka HTTP, AWS Bedrock, Ollama, Docker |
 | [**SMS-Based LLM Platform**](https://github.com/realAkshaj/) | SMS-to-LLM bridge for rural users without smartphones. 150+ queries/day, 40% cost reduction | Python, Twilio, AWS Lambda, DynamoDB |
 | [**Distributed Backend System**](https://github.com/realAkshaj/) | 5-service microservices architecture handling 1,200+ requests/hour with circuit breaker pattern | Java, Go, Kubernetes, RabbitMQ |
-| [**AI CMS Platform**](https://github.com/realAkshaj/ai-cms-platform) ([Live](https://ai-cms-platform-web.vercel.app/)) | Full-stack AI-powered CMS with Gemini integration, multi-tenant auth, SEO auto-generation, public blog & analytics dashboard | TypeScript, Next.js 16, Express, Prisma, PostgreSQL, Docker |
-| [**Conversational AI RAG Chatbot**](https://github.com/realAkshaj/Conversational-AI-RAG-Chatbot) | RAG-powered conversational chatbot with document retrieval and contextual responses | Python |
-| [**Portfolio**](https://github.com/realAkshaj/portfolio) ([Live](https://akshajks.com)) | OS-style personal site with desktop metaphor UI, draggable windows & animated transitions | Next.js, TypeScript, Tailwind, Framer Motion |
+| [**AI CMS Platform**](https://github.com/realAkshaj/ai-cms-platform) ([Live](https://ai-cms-platform-web.vercel.app/)) | Full-stack AI-powered CMS with Gemini integration, multi-tenant auth, and analytics dashboard | TypeScript, Next.js, Express, Prisma, Docker |
+| [**Portfolio**](https://github.com/realAkshaj/portfolio) ([Live](https://akshajks.com)) | OS-style personal site with desktop metaphor UI, draggable windows & animated transitions | Next.js 14, TypeScript, Tailwind, Framer Motion |
 
 ---
 
@@ -49,7 +51,6 @@ Before grad school, I built backend infrastructure at a startup processing **50K
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
@@ -58,7 +59,6 @@ Before grad school, I built backend infrastructure at a startup processing **50K
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
@@ -98,10 +98,10 @@ Before grad school, I built backend infrastructure at a startup processing **50K
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=realAkshaj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+![Streak](https://nirzak-streak-stats.vercel.app/?user=realAkshaj&theme=tokyonight&hide_border=true)
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
+</p>
