@@ -20,7 +20,7 @@ Before grad school, I built backend infrastructure at a startup processing **50K
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [**LLM Conversational Agent**](https://github.com/realAkshaj/LLM-Microservice) | AI agent with function calling, Redis memory, PostgreSQL history. 75% task success rate, 200+ conversations/day | Python, LangChain, OpenAI, AWS Lambda |
+| [**LLM Conversational Agent**](https://github.com/realAkshaj/LLM-Microservice) ([Video](https://youtu.be/zWOe9C6i96g)) | Hybrid cloud/local chat system integrating AWS Bedrock & Ollama via Akka HTTP microservices | Scala, Akka HTTP, AWS Bedrock, Ollama, Docker |
 | [**SMS-Based LLM Platform**](https://github.com/realAkshaj/) | SMS-to-LLM bridge for rural users without smartphones. 150+ queries/day, 40% cost reduction | Python, Twilio, AWS Lambda, DynamoDB |
 | [**Distributed Backend System**](https://github.com/realAkshaj/) | 5-service microservices architecture handling 1,200+ requests/hour with circuit breaker pattern | Java, Go, Kubernetes, RabbitMQ |
 | [**AI CMS Platform**](https://github.com/realAkshaj/ai-cms-platform) ([Live](https://ai-cms-platform-web.vercel.app/)) | AI-powered content management system | TypeScript, Node.js |
