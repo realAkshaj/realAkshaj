@@ -55,41 +55,44 @@ Before grad school, I built backend infrastructure at a startup processing **50K
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,ts,js,go,cpp,scala&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,java,ts,js,golang,cpp,scala" />
 </p>
 
 **AI / ML**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=7" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn" />
+  &nbsp;
+  <img src="https://iconic-api.onrender.com/dark/matplotlib" width="45" title="Matplotlib"/>
+  <img src="https://iconic-api.onrender.com/dark/chatgpt" width="45" title="OpenAI"/>
   &nbsp;
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  &nbsp;
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
 **Backend & Systems**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,graphql,redis,rabbitmq,kafka&perline=7" />
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,graphql,redis,rabbitmq,kafka" />
 </p>
 
 **Data**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,cassandra,dynamodb&perline=7" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,cassandra,dynamodb" />
 </p>
 
 **Cloud & Infra**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,nginx&perline=6" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,nginx" />
 </p>
 
 **Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,prisma,vite&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,prisma,vite" />
 </p>
 
 ---
