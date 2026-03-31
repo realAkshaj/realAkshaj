@@ -12,19 +12,19 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/akshajks">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2" height="28"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" title="LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://akshajks.com">
-    <img src="https://img.shields.io/badge/-Portfolio-0f172a?style=flat&logo=vercel&logoColor=38BDF8&labelColor=0f172a" height="28"/>
+    <img src="https://skillicons.dev/icons?i=vercel" height="40" title="Portfolio"/>
   </a>
   &nbsp;
   <a href="mailto:akurr@uic.edu">
-    <img src="https://img.shields.io/badge/-akurr@uic.edu-1a1a2e?style=flat&logo=gmail&logoColor=EA4335&labelColor=1a1a2e" height="28"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" title="Email"/>
   </a>
   &nbsp;
-  <a href="https://leetcode.com/realAkshaj">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=0a0a0a&labelColor=FFA116" height="28"/>
+  <a href="https://github.com/realAkshaj">
+    <img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub"/>
   </a>
 </p>
 
@@ -54,76 +54,43 @@ Before grad school, I built backend infrastructure at a startup processing **50K
 
 **Languages**
 
-<div style="display:flex;gap:4px;flex-wrap:wrap;align-items:center;">
-  <img src="https://iconic-api.onrender.com/dark/python" width="52" title="Python"/>
-  <img src="https://iconic-api.onrender.com/dark/java" width="52" title="Java"/>
-  <img src="https://iconic-api.onrender.com/dark/typescript" width="52" title="TypeScript"/>
-  <img src="https://iconic-api.onrender.com/dark/js" width="52" title="JavaScript"/>
-  <img src="https://iconic-api.onrender.com/dark/go" width="52" title="Go"/>
-  <img src="https://iconic-api.onrender.com/dark/cpp" width="52" title="C++"/>
-  <img src="https://iconic-api.onrender.com/dark/scala" width="52" title="Scala"/>
-</div>
-
-<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,ts,js,go,cpp,scala&perline=7" />
+</p>
 
 **AI / ML**
 
-<div style="display:flex;gap:4px;flex-wrap:wrap;align-items:center;">
-  <img src="https://iconic-api.onrender.com/dark/pytorch" width="52" title="PyTorch"/>
-  <img src="https://iconic-api.onrender.com/dark/tensorflow" width="52" title="TensorFlow"/>
-  <img src="https://iconic-api.onrender.com/dark/scikit-learn" width="52" title="scikit-learn"/>
-  <img src="https://iconic-api.onrender.com/dark/keras" width="52" title="Keras"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-</div>
-
-<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=7" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+</p>
 
 **Backend & Systems**
 
-<div style="display:flex;gap:4px;flex-wrap:wrap;align-items:center;">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-  <img src="https://iconic-api.onrender.com/dark/fastapi" width="52" title="FastAPI"/>
-  <img src="https://iconic-api.onrender.com/dark/nodejs" width="52" title="Node.js"/>
-  <img src="https://iconic-api.onrender.com/dark/graphql" width="52" title="GraphQL"/>
-  <img src="https://iconic-api.onrender.com/dark/redis" width="52" title="Redis"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
-</div>
-
-<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,graphql,redis,rabbitmq,kafka&perline=7" />
+</p>
 
 **Data**
 
-<div style="display:flex;gap:4px;flex-wrap:wrap;align-items:center;">
-  <img src="https://iconic-api.onrender.com/dark/postgresql" width="52" title="PostgreSQL"/>
-  <img src="https://iconic-api.onrender.com/dark/mysql" width="52" title="MySQL"/>
-  <img src="https://iconic-api.onrender.com/dark/mongodb" width="52" title="MongoDB"/>
-  <img src="https://iconic-api.onrender.com/dark/pandas" width="52" title="Pandas"/>
-  <img src="https://iconic-api.onrender.com/dark/numpy" width="52" title="NumPy"/>
-  <img src="https://iconic-api.onrender.com/dark/matplotlib" width="52" title="Matplotlib"/>
-</div>
-
-<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,cassandra,dynamodb&perline=7" />
+</p>
 
 **Cloud & Infra**
 
-<div style="display:flex;gap:4px;flex-wrap:wrap;align-items:center;">
-  <img src="https://iconic-api.onrender.com/dark/aws" width="52" title="AWS"/>
-  <img src="https://iconic-api.onrender.com/dark/docker" width="52" title="Docker"/>
-  <img src="https://iconic-api.onrender.com/dark/kubernetes" width="52" title="Kubernetes"/>
-  <img src="https://iconic-api.onrender.com/dark/terraform" width="52" title="Terraform"/>
-</div>
-
-<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,nginx&perline=6" />
+</p>
 
 **Frontend**
 
-<div style="display:flex;gap:4px;flex-wrap:wrap;align-items:center;">
-  <img src="https://iconic-api.onrender.com/dark/react" width="52" title="React"/>
-  <img src="https://iconic-api.onrender.com/dark/nextjs" width="52" title="Next.js"/>
-  <img src="https://iconic-api.onrender.com/dark/tailwind" width="52" title="Tailwind CSS"/>
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,prisma,vite&perline=6" />
+</p>
 
 ---
 
