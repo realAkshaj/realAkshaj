@@ -1,107 +1,60 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Akshaj%20Kurra%20Satishkumar&fontSize=52&fontColor=ffffff&fontAlignY=40" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=888888&center=true&vCenter=true&width=500&lines=MS+CS+%40+UIC+%E2%80%94+GPA+3.9%2F4.0;Backend+%2F+AI+%2F+Distributed+Systems;Graduating+May+2026+%E2%80%94+Open+to+New+Grad+Roles" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://akshajks.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=LLM+Infrastructure+%26+RAG+Pipelines;Distributed+Systems+%40+Scale;MS+CS+%40+UIC+%7C+GPA+3.9%2F4.0;Graduating+May+2026;Open+to+New+Grad+Roles" alt="Typing SVG" />
-  </a>
-</p>
+<h1 align="center">Akshaj Kurra Satishkumar</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/akshajks">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;
-  <a href="https://akshajks.com">
-    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>&nbsp;
-  <a href="mailto:akurr@uic.edu">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://linkedin.com/in/akshajks"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://akshajks.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a>&nbsp;
+  <a href="mailto:akurr@uic.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="https://leetcode.com/realAkshaj"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" /></a>
 </p>
 
 ---
 
-## About Me
-
-I'm a CS grad student at the **University of Illinois Chicago** (GPA 3.9) building production-grade AI systems. My work spans LLM infrastructure, distributed backend engineering, and data analytics. I care about systems that are fast, reliable, and actually ship.
-
-Before grad school, I built backend infrastructure at a startup processing **50K+ daily transactions** with 99.9% uptime. Now focused on full-stack engineering, LLM agents, RAG systems, and scalable ML serving.
+CS grad student at **UIC** building production-grade backend and AI systems. Background in distributed systems, LLM infrastructure, and full-stack engineering. Before grad school, built backend infrastructure at a startup handling 50K+ daily transactions at 99.9% uptime. I care about systems that are fast, reliable, and actually ship.
 
 ---
 
-## Featured Projects
+## Projects
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [**LLM Conversational Agent**](https://github.com/realAkshaj/LLM-Microservice) ([Video](https://youtu.be/zWOe9C6i96g)) | Hybrid cloud/local chat system integrating AWS Bedrock & Ollama via Akka HTTP microservices | Scala, Akka HTTP, AWS Bedrock, Ollama, Docker |
-| [**SMS-Based LLM Platform**](https://github.com/realAkshaj/) | SMS-to-LLM bridge for rural users without smartphones. 150+ queries/day, 40% cost reduction | Python, Twilio, AWS Lambda, DynamoDB |
-| [**Distributed Backend System**](https://github.com/realAkshaj/) | 5-service microservices architecture handling 1,200+ requests/hour with circuit breaker pattern | Java, Go, Kubernetes, RabbitMQ |
-| [**AI CMS Platform**](https://github.com/realAkshaj/ai-cms-platform) ([Live](https://ai-cms-platform-web.vercel.app/)) | Full-stack AI-powered CMS with Gemini integration, multi-tenant auth, and analytics dashboard | TypeScript, Next.js, Express, Prisma, Docker |
-| [**Portfolio**](https://github.com/realAkshaj/portfolio) ([Live](https://akshajks.com)) | OS-style personal site with desktop metaphor UI, draggable windows & animated transitions | Next.js 14, TypeScript, Tailwind, Framer Motion |
+| Project | Stack | Links |
+|---------|-------|-------|
+| **Distributed Order Orchestration System** | Java, Spring Boot, RabbitMQ, Redis | [GitHub](https://github.com/realAkshaj) |
+| **LLM Conversational Agent** | Scala, Akka HTTP, AWS Bedrock, Ollama, Docker | [GitHub](https://github.com/realAkshaj/LLM-Microservice) · [Demo](https://youtu.be/zWOe9C6i96g) |
+| **AI CMS Platform** | TypeScript, Next.js, Prisma, PostgreSQL, Gemini | [GitHub](https://github.com/realAkshaj/ai-cms-platform) · [Live](https://ai-cms-platform-web.vercel.app/) |
+| **Graph-Based Skill Prediction Engine** | Python, PyTorch, GraphSAGE, O\*NET | [GitHub](https://github.com/realAkshaj) |
+| **Portfolio** | Next.js 14, TypeScript, Tailwind, Framer Motion | [GitHub](https://github.com/realAkshaj/portfolio) · [Live](https://akshajks.com) |
 
 ---
 
 ## Tech Stack
 
-**Languages**
+**Languages** — Python · Java · TypeScript · Go · SQL · C++
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+**AI / ML** — PyTorch · LangChain · LangGraph · HuggingFace · pgvector · RAG pipelines
 
-**AI / ML**
+**Backend** — Spring Boot · FastAPI · Node.js · GraphQL · Redis · RabbitMQ
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+**Data** — PostgreSQL · MySQL · MongoDB · Pandas · NumPy
 
-**Data Analytics**
+**Cloud & Infra** — AWS (Bedrock, Lambda, DynamoDB, S3) · Docker · Kubernetes · Terraform
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-
-**Backend & Systems**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-
-**Cloud & Infrastructure**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+**Frontend** — React · Next.js · Tailwind CSS · Framer Motion
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=realAkshaj&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=realAkshaj&show_icons=true&hide_border=true&theme=default&hide=stars&count_private=true" height="150" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realAkshaj&hide_border=true&theme=default&layout=compact&langs_count=6" height="150" />
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
+  <sub>akshajks.com · akurr@uic.edu</sub>
 </p>
